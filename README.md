@@ -1,33 +1,22 @@
-# Reilly Realty
+# Reilly Realty Demo Website
 
-## Description
-Reilly Realty is a trusted real estate agency located in Limerick, Ireland, specializing in residential properties. We are committed to helping clients find their perfect homes, offering services like property sales, mortgage advice, property valuations, and more. Our goal is to make the real estate experience as seamless and stress-free as possible for our clients.
+This is a demo website built to showcase real estate services, including CRM capabilities and AI integration for real estate agents. Reilly Realty is based in Limerick, Ireland, and is committed to providing innovative solutions for real estate professionals. This project is designed to highlight how a tailored CRM can help with lead management, content creation, and automation for real estate businesses.
 
-## Services Offered
-- **Property Sales**: Assistance with buying and selling residential properties in Limerick County.
-- **Free Property Valuations**: Get a free property valuation to understand the current market value of your property.
-- **Mortgage Advice**: We help clients with mortgage applications to secure the best possible rates and terms.
-- **Home Staging Tips**: Providing expert advice on how to stage your home to make it more appealing to buyers.
-- **First-Time Buyer Tips**: Tailored guidance for first-time home buyers to navigate the process with ease.
-- **Neighborhood Guides**: Descriptions of different neighborhoods in Limerick, helping clients choose the best location for their needs.
+## Company Background
+Reilly Realty is a forward-thinking real estate agency that aims to revolutionize the real estate experience through technology. Based in Limerick, Ireland, the company specializes in providing real estate agents with the tools they need to manage clients and leads effectively, enhance their marketing efforts, and streamline their workflow. By incorporating cutting-edge technologies like AI and custom CRM systems, Reilly Realty ensures that real estate professionals can stay ahead of the competition and offer unparalleled service to their clients.
 
-## How to Get Started
-1. **Book an Appointment**: Reach out through our website to schedule an appointment with one of our expert agents.
-2. **Request a Property Valuation**: Contact us for a free property valuation.
-3. **Get Mortgage Advice**: Let us guide you through the mortgage application process.
+## Features
+- **CRM for Real Estate Agents**: Manage your leads and clients with a tailor-made CRM solution designed specifically for the real estate industry.
+- **AI Content Creation**: Automatically generate blogs, property descriptions, and marketing materials for your website and social media channels.
+- **Automation**: Automate your daily tasks and improve efficiency with custom workflows and AI integrations, designed to save time and reduce human error.
 
-## Technologies Used
-- **Website**: Built using Square for a seamless and secure property browsing experience.
-- **Real Estate CRM**: A tailor-made CRM designed to streamline property management and client communication.
-- **Lead Generation**: We use AI-powered tools to generate leads and match clients with their ideal properties.
+## Demo Website
+This is a **demo website** created using **bolt.new** to showcase the core features of the Reilly Realty system. It demonstrates how a tailored CRM solution and AI content generation can streamline the work of real estate agents, helping them focus on what matters most – building relationships and closing deals.
 
-## Contributing
-At this time, contributions are not open to the public. However, we are always looking for ways to improve our services. Feel free to get in touch with us to share any feedback or ideas!
+## Setup Instructions
+1. Clone the repository.
+2. Open the `index.html` file in a browser to view the demo site.
+3. For full functionality, consider integrating this with a backend server for CRM data storage.
 
 ## License
-This project is not open-source. For more information, please contact us directly.
-
-## Contact
-- **Email**: info@reillyrealty.ie
-- **Phone**: +353 61 234 567
-- **Website**: [www.reillyrealty.ie](https://www.reillyrealty.ie)
+This project is licensed under the MIT License.
