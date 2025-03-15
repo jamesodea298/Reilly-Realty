@@ -1,0 +1,18 @@
+# Ignore node_modules for Node.js projects
+node_modules/
+
+# Ignore log files
+npm-debug.log
+*.log
+
+# Ignore build files
+/dist/
+/build/
+
+# Ignore IDE/editor folders
+.vscode/
+.idea/
+
+# Ignore environment variables or configuration files that shouldn't be committed
+.env
+config.json
